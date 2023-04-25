@@ -1,0 +1,4 @@
+name: mythicstaff
+version: '${project.version}'
+main: fr.eweez.mythicstaff.Mythicstaff
+api-version: 1.19
